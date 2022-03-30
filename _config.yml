@@ -22,7 +22,6 @@ title: Ramblings by Candlelight
 email: jnebeker@truckitapp.com
 description: >- # this means to ignore newlines until "baseurl:"
   Technical essays and tidbits from an ML and Simulation engineer.
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jamesneb.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NebekerJames
 github_username:  jamesneb
