@@ -3,7 +3,7 @@ title:               Candlelit Ramblings
 tagline:             'The best kind of ramblings'
 description:         'Technical essays and tidbits from the world of simulation and optimization.'
 url:                 http://jamesneb.github.io
-baseurl:             'http://jamesneb.github.io'   
+baseurl:             ''   
 paginate:            5
 permalink:           pretty
 
