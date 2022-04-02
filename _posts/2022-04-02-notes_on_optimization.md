@@ -38,7 +38,7 @@ fact, results can vary wildly based on small changes in this model, so it pays t
 For <em>any</em> use case, you need to be able to answer the following questions:
 <p>
 <ul>
-<li> Can I assume my <strong>vehicle fleet</strong> is homogeneous? (Do they all have the same capacity)
+<li> Can I assume my <strong>vehicle fleet</strong> is homogeneous? (Do they all have the same capacity)</li>
 <li> Can I assume my vehicles begin and end their journey in the same place? </li>
 <li> Do I have time restrictions? (Can customers be served at any time?)</li>
 <li> Do any customers have priority over any others?</li>
