@@ -6,7 +6,7 @@ title: About
 <p class="message">
 Hiya. I'd love to take some time to promote a fascinating open-source project: <b>AB Street</b>.
 ABStreet is a city and neighborhood simulation designed with the goal of creating neighborhoods
-which are friendlier to walking, biking, and public transit. You can find it here:[abstreet](https://github.com/a-b-street/abstreet). 
+which are friendlier to walking, biking, and public transit. You can find it here:<a href=https://github.com/a-b-street/abstreet)> ABStreet </a> 
 
 </p>
 
@@ -22,9 +22,9 @@ I am available on most social media, if you want to get in touch.Here are just a
 platforms I check regularly:
 
 * LinkedIn: [LinkedIn](https://www.linkedin.com/in/james-nebeker/)
-* Twitter: @NebekerJames
-* Instagram: adrunkenscientist
-* Email: jnebeker@truckit.com
+* Twitter: [@NebekerJames](https://twitter.com/NebekerJames)
+* Instagram: [adrunkenscientist](https://www.instagram.com/adrunkenscientist/)
+* Email: [jnebeker@truckit.com](mailto:jnebeker@truckit.com)
 
  
 
