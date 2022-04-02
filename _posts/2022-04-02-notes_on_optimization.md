@@ -37,12 +37,14 @@ fact, results can vary wildly based on small changes in this model, so it pays t
 </p>
 For <em>any</em> use case, you need to be able to answer the following questions:
 <p>
-* Can I assume my <strong>vehicle fleet</strong> is homogeneous? (Do they all have the same capacity)
-* Can I assume my vehicles begin and end their journey in the same place? 
-* Do I have time restrictions? (Can customers be served at any time?)
-* Do any customers have priority over any others?
-* Are my vehicles allowed to *refill* after a delivery? 
-* Can any vehicle service any customer?
+<ul>
+<li> Can I assume my <strong>vehicle fleet</strong> is homogeneous? (Do they all have the same capacity)
+<li> Can I assume my vehicles begin and end their journey in the same place? </li>
+<li> Do I have time restrictions? (Can customers be served at any time?)</li>
+<li> Do any customers have priority over any others?</li>
+<li> Are my vehicles allowed to *refill* after a delivery? </li>
+<li> Can any vehicle service any customer?</li>
+</ul>
 </p><p class="indent">
 The answers to all of these questions give you a different variant of the traditional <abbr
 title="Vehicle Routing Problem">VRP</abbr>
@@ -58,11 +60,14 @@ comparisons.
 </p>
 For any <abbr title="Vehicle Routing Problem">VRP</abbr>, your dataset will have to be capable of supporting the following:
 <p>
-* Retrieving a geo-encodable address for every pickup and every delivery
-* Associating a trip time between every pickup and every delivery 
-* Providing a vehicle count which is *mathematically capable* of servicing all of the requests
-* Providing a starting location for every vehicle (this can be the same for all vehicles)
-* Providing a total <strong>demand</strong> for each customer
+<ul>
+<li> Retrieving a geo-encodable address for every pickup and every delivery </li>
+<li> Associating a trip time between every pickup and every delivery</li> 
+<li> Providing a vehicle count which is *mathematically capable* of servicing all of the
+request</li>
+<li> Providing a starting location for every vehicle (this can be the same for all vehicles)</li>
+<li> Providing a total <strong>demand</strong> for each customer</li>
+</ul>
 </p>
 <h4> A note on distance & time calculations</h4>
 <p>
