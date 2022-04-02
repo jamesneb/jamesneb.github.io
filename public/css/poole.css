@@ -263,6 +263,16 @@ tbody tr:nth-child(odd) th {
   font-weight: 300;
 }
 
+/*
+ * Inent
+ *
+ * Defines a paragraph where the first line of text is indented
+ *
+ */  
+
+.indent {
+  text-indent: 30px;
+}
 
 /*
  * Messages
