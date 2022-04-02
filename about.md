@@ -4,26 +4,27 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+Hiya. I'd love to take some time to promote a fascinating open-source project: <b>AB Street</b>.
+ABStreet is a city and neighborhood simulation designed with the goal of creating neighborhoods
+which are friendlier to walking, biking, and public transit. You can find it here:[abstreet](https://github.com/a-b-street/abstreet). 
+
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I am James Nebeker, and this is my personal blog. You'll find rantings and musings related to a
+strange little corner of software development known as simulation as well as the occasional essay
+on something more broad. 
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Contact
 
-## Setup
+I am available on most social media, if you want to get in touch.Here are just a few of the
+platforms I check regularly:
 
-Some fun facts about the setup of this project include:
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/james-nebeker/)
+* Twitter: @NebekerJames
+* Instagram: adrunkenscientist
+* Email: jnebeker@truckit.com
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
+ 
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
