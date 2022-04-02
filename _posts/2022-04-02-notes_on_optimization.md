@@ -12,7 +12,7 @@ something like this:
 <blockquote>
  A company maintains a fleet of <em>vehicles</em> which need to service a collection of
 <em>customers</em> in a certain <em>time-frame</em>.</blockquote>
-</p><p>
+</p><p class="indent">
 How do we make sure that we are doing this efficiently?
 </p>
 <p>
@@ -22,7 +22,7 @@ particular business, such as a <em>maximum working day</em>, <em>guaranteed time
 you get <abbr title="Vehicle Routing Problem">VRP</abbr>. 
 </p>
 
-<p class="indent">
+<p>
 <abbr title="Vehicle Routing Problem">VRP</abbr> is a generalization of the Traveling Salesman Problem - no exact solutions are known for the size
 of practical, real-world data-sets, and so typically heuristics are employed to reach reasonable
 solutions that may not be theoretically optimal.<code>Optimality is typically defined by the business,
@@ -45,7 +45,7 @@ For <em>any</em> use case, you need to be able to answer the following questions
 <li> Are my vehicles allowed to *refill* after a delivery? </li>
 <li> Can any vehicle service any customer?</li>
 </ul>
-</p><p class="indent">
+</p><p>
 The answers to all of these questions give you a different variant of the traditional <abbr
 title="Vehicle Routing Problem">VRP</abbr>
 problem, and each variant will require subtly different <strong>metaheuristics</strong> to solve optimally - and
@@ -73,7 +73,9 @@ request</li>
 <p>
 Getting trip times between points is <em>expensive</em>, and there are basically three ways to do it. One
 is to use a matrix api, which is the most expensive option. When the number of pickups and/or
-deliveries exceeds a threshold <code> x </code> (different for each provider), your costs will sky-rocket. The
+deliveries exceeds a threshold <code> x </code> (different for each provider), your costs will sky-rocket.</p>
+
+<p> The
 second option is not to encode the trip distances some other way (usually using the <strong>Pythagorean
 Theorem</strong>), which gives you an approximation which is reasonable more often than not, but cannot
 account for traffic and road networks. This is inexpensive, but brittle.
@@ -91,4 +93,3 @@ particularly busy day, or a combination of requests that put your trucks further
 location than they would normally be.
 </p>
 ** WORK IN PROGRESS**
- 
